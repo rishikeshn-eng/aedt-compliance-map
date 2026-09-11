@@ -1,0 +1,11 @@
+question,key,help
+"Do you use any automated tool to screen, rank, or score job candidates?",uses_aedt,"Includes resume parsers that rank, scoring models, and LLM-based screening. Tools that only store or format applications generally do not count."
+Does the tool substantially assist or replace human decision-making?,substantial,"The NYC threshold. A tool whose output a human relies on heavily counts, even if a person signs off."
+"Do you hire for roles based in New York City, including remote roles?",nyc,
+Do you hire workers in California?,ca,
+Do you hire workers in Illinois?,il,
+Do you use AI to analyse recorded video interviews?,video,
+Do you hire workers in Colorado?,co,
+Do you hire workers in Texas?,tx,
+"Do you place the tool on the EU market, or use it for EU-based roles?",eu,
+Do you use facial recognition in interviews?,face,
